@@ -43,8 +43,7 @@ published at **[ioc-project.github.io](https://ioc-project.github.io/)**.
   analysis that detects cognitive failures and explains them
 * [mas-lab](https://github.com/ioc-project/mas-lab) — specification-driven multi-agent
   systems with OpenTelemetry observability, agent traces, benchmarking, MCP and A2A
-* [ioc-project.github.io](https://github.com/ioc-project/ioc-project.github.io) — the
-  documentation site
+* [ioc-project.github.io](https://ioc-project.github.io/) — the documentation site
 
 ## Related reading
 
